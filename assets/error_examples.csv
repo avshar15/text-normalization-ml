@@ -1,0 +1,51 @@
+before,class,predicted_class,after,predicted
+192 1067-8,TELEPHONE,DATE,one nine two sil one o six seven sil eight,192 1067-8
+:,PLAIN,PUNCT,to,:
+2000s,DATE,DATE,two thousands,2000s
+0-7570-0158-0,TELEPHONE,DATE,o sil seven five seven o sil o one five eight sil o,0-7570-0158-0
+HCG,LETTERS,PLAIN,h c g,HCG
+HCG,LETTERS,PLAIN,h c g,HCG
+Catalogue,PLAIN,PLAIN,catalog,Catalogue
+1½,FRACTION,CARDINAL,one and a half,1½
+I,CARDINAL,PLAIN,one,I
+-,PLAIN,VERBATIM,to,-
+2015,CARDINAL,DATE,two thousand fifteen,twenty fifteen
+35 mph,MEASURE,MEASURE,thirty five miles per hour,thirty five mph
+"1,214",CARDINAL,DATE,one thousand two hundred fourteen,"1,214"
+Uff,LETTERS,PLAIN,u f f,Uff
+POUM,LETTERS,PLAIN,p o u m,POUM
+1602,DATE,DATE,sixteen o two,sixteen oh two
+govt,LETTERS,PLAIN,g o v t,govt
+BMW,LETTERS,PLAIN,b m w,BMW
+80 ,CARDINAL,CARDINAL,eighty,80 
+TWA,LETTERS,PLAIN,t w a,TWA
+February 12,DATE,DATE,february twelfth,February 12
+NLL,LETTERS,PLAIN,n l l,NLL
+TSR,LETTERS,PLAIN,t s r,TSR
+2008-01-30,DATE,DATE,the thirtieth of january two thousand eight,2008-01-30
+No,PLAIN,PLAIN,number,No
+UCBAC,LETTERS,PLAIN,u c b a c,UCBAC
+Organised,PLAIN,PLAIN,organized,Organised
+MD,LETTERS,PLAIN,m d,MD
+MD,LETTERS,PLAIN,m d,MD
+194,CARDINAL,DATE,one hundred ninety four,194
+MD,LETTERS,PLAIN,m d,MD
+11%,MEASURE,CARDINAL,eleven percent,11%
+cpl,PLAIN,PLAIN,corporal,cpl
+:,PLAIN,PUNCT,to,:
+UTVA,LETTERS,PLAIN,u t v a,UTVA
+75,DIGIT,CARDINAL,seven five,seventy five
+11,DIGIT,CARDINAL,one one,eleven
+Utva,LETTERS,PLAIN,u t v a,Utva
+2010,CARDINAL,DATE,two thousand ten,twenty ten
+KDGL,LETTERS,PLAIN,k d g l,KDGL
+TFI,LETTERS,PLAIN,t f i,TFI
+iv,LETTERS,PLAIN,i v,iv
+-,PLAIN,VERBATIM,to,-
+cdk,VERBATIM,PLAIN,c d k,cdk
+1.35%,MEASURE,CARDINAL,one point three five percent,1.35%
+http://www.trinitari.org,ELECTRONIC,PLAIN,h t t p colon slash slash w w w dot t r i n i t a r i dot o r g,http://www.trinitari.org
+Dzur,LETTERS,PLAIN,d z u r,Dzur
+plc,VERBATIM,PLAIN,p l c,plc
+-,PLAIN,VERBATIM,to,-
+Honoured,PLAIN,PLAIN,honored,Honoured

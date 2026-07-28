@@ -1,0 +1,5 @@
+Approach,Overall,Transforming tokens
+Copy through (baseline),0.9331273340163257,0.0
+Predicted class + rules,0.9791136521365544,0.7069434148752162
+Memorised mapping,0.9722561882415149,0.5853718804052385
+Hybrid (memorisation + rules),0.987012128622889,0.80627625401532
